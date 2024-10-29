@@ -2,6 +2,21 @@ https://madeline-cole.github.io/first-html-website/
 
 "First HTML Website - Learning Journey Showcase"
 
+Core Competencies Demonstrated:
+- HTML fundamentals
+- Basic styling
+- Media embedding
+- Content organization
+- Link management
+- Document structuring
+
+Learning Milestones:
+- HTML tag implementation
+- Text formatting
+- Media integration
+- Navigation creation
+- Style attribute usage
+
 Key Technical Implementations:
 - Multi-page HTML structure
 - Basic navigation system
@@ -37,19 +52,5 @@ Notable Technical Achievements:
 - Table structure creation
 - Image and GIF handling
 
-Core Competencies Demonstrated:
-- HTML fundamentals
-- Basic styling
-- Media embedding
-- Content organization
-- Link management
-- Document structuring
-
-Learning Milestones:
-- HTML tag implementation
-- Text formatting
-- Media integration
-- Navigation creation
-- Style attribute usage
 
 This project demonstrates strong initiative in web development fundamentals, showcasing key HTML concepts and basic design principles through hands-on exploration and implementation.
